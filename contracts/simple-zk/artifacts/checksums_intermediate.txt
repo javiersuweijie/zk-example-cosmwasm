@@ -1,0 +1,1 @@
+bd7d25cc7d3b1d8ab64621313bef9f0353650f2f7b5cd7150bb23955f49c2f7d  ./target/wasm32-unknown-unknown/release/simple_zk.wasm
